@@ -94,9 +94,6 @@ Commit Guidelines
         Implemented MallardDuck and RedheadDuck classes
         Updated Main.java with duck behavior execution
 
-Submission Guidelines
 
-    Convert all Java files into a single PDF file.
-    Include the GitHub repository link at the end of the PDF file.
 
 
