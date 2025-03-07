@@ -99,8 +99,4 @@ Submission Guidelines
     Convert all Java files into a single PDF file.
     Include the GitHub repository link at the end of the PDF file.
 
-Author
 
-    Name:Akhil Chivukula
-    PRN: 230
-    Batch: [Your Batch]
