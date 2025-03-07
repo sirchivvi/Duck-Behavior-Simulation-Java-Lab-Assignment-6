@@ -60,29 +60,7 @@ Run the main program:
 
     The program will display the behavior of different ducks as per their assigned behaviors.
 
-File Structure
 
-StrategyPattern/
-│── src/
-│   │── Duck.java               # Abstract class for all ducks
-│   │── FlyBehavior.java        # Interface for flying behavior
-│   │── Fly.java                # Implementation for ducks that fly
-│   │── NotFly.java             # Implementation for ducks that do not fly
-│   │── SwimBehavior.java       # Interface for swimming behavior
-│   │── Swim.java               # Implementation for ducks that swim
-│   │── Float.java              # Implementation for ducks that float
-│   │── Drown.java              # Implementation for ducks that drown
-│   │── MallardDuck.java        # MallardDuck class
-│   │── RedheadDuck.java        # RedheadDuck class
-│   │── RubberDuck.java         # RubberDuck class
-│   │── DecoyDuck.java          # DecoyDuck class
-│   │── ModelDuck.java          # ModelDuck class with dynamic behavior change
-│   │── Main.java               # Main driver class for execution
-│
-│── README.md                   # This file
-│── .gitignore                   # Git ignore file
-│── LICENSE                      # License file (if applicable)
-│── class_diagram.png            # UML Class Diagram of the program
 
 
 
