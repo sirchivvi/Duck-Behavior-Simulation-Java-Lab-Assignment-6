@@ -84,15 +84,7 @@ StrategyPattern/
 │── LICENSE                      # License file (if applicable)
 │── class_diagram.png            # UML Class Diagram of the program
 
-Commit Guidelines
 
-    Each Java file should be committed separately.
-    Example commit messages:
-        Added abstract class Duck with behavior references
-        Implemented FlyBehavior and SwimBehavior interfaces
-        Added Swim, Float, and Drown classes for swim behavior
-        Implemented MallardDuck and RedheadDuck classes
-        Updated Main.java with duck behavior execution
 
 
 
